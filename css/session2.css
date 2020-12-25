@@ -1,0 +1,31 @@
+body{
+    background-color: #fafafa; /* mau nen */
+    /*background-image: url("../imgs/thoitiet.jfif");
+    background-repeat: no-repeat;
+    background-size: cover; /* co anh nen */
+
+}
+
+h1{
+    color: #CB4040 ; /* rgba() */
+    font-size: 20px;  /* font chu */
+    line-height: 1.5; /* do cao dong */
+    text-align: center; /* can le */
+    border: 1px dotted green; /* vien */
+}
+
+p{
+    font-size: 14px;
+    line-height: 1.5;
+    text-align: center;
+    width: 800px;
+    text-transform: none;/* uppercase-lowercase-capitalize */
+    text-decoration: none; /* overline-underline-line-through */
+    font-family: Arial;
+    font-weight: normal;/* thin-100 light-300 normal-400 medium-500 seni-bold-600 bold-700 extrabold-800 black-900 */
+
+}
+img{
+    max-width: 100%;
+    text-align: center;
+}
