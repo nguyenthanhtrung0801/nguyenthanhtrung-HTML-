@@ -1,0 +1,64 @@
+
+.tieude{
+    float: left;
+    width: 100%;
+    height: 150px;
+}
+
+#logo{
+    float: left;
+    margin: 30px;
+}
+
+.input-group{
+    float: right;
+    margin: 50px;
+}
+
+.giua{
+    float: left;
+    width: 100%;
+}
+
+.vien{
+    float: left;
+    background-color: #9da337;
+    width: 100%;
+    height: 40px;
+}
+
+.vien p{
+    float: right;
+    color: white;
+    margin-right: 50px;
+
+}
+
+.cottrai{
+    float: left;
+    width: 10%;
+    height: 420px;
+    background-color: #e1d3b4;
+}
+.khunggiua{
+    float: left;
+    width: 60%;
+    background-color: #ebedd7;
+}
+
+.cotphai{
+    float: left;
+    width: 30%;
+
+}
+.cotduoi{
+    float: left;
+    width: 100%;
+    height: 30px;
+    padding-left: 60%;
+    background-color: #e1d3b4;
+}
+
+.cuoi{
+    float: left;
+}

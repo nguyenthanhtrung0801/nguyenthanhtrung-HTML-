@@ -1,0 +1,21 @@
+.section{
+    float: left;
+    width: 100%;
+}
+
+.box1{
+    background-color: #CB4040;
+}
+.box2{
+    background-color: green;
+}
+
+.traitim{
+    font-size: 50px;
+    transition: color 300ms;
+
+}
+
+.traitim:hover{
+    color: red;
+}
